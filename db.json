@@ -1,5 +1,5 @@
 {
-  "user": 
+  "user": [
     {"username": "miguelk99", "pass": "miguelk9","email":"miguel.g.7@hotmail.com","lockAvaible":[{"lockId":"0","statusUser":"0"}]},
     {"username": "godinhok99", "pass": "godinhok9", "email":"miguelgodinho99@gmail.com","lockAvaible":[{"lockId":"0","statusUser":"1"},{"lockId":"1","statusUser":"0"}]}
   ]
