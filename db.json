@@ -1,6 +1,13 @@
 {
-  "user": [
-    {"username": "miguelk99", "pass": "miguelk9","email":"miguel.g.7@hotmail.com"},
-    {"username": "godinhok99", "pass": "godinhok9", "email":"miguelgodinho99@gmail.com"}
+  "user": 
+    {"username": "miguelk99", "pass": "miguelk9","email":"miguel.g.7@hotmail.com","lockAvaible":[{"lockId":"0","statusUser":"0"}]},
+    {"username": "godinhok99", "pass": "godinhok9", "email":"miguelgodinho99@gmail.com","lockAvaible":[{"lockId":"0","statusUser":"1"},{"lockId":"1","statusUser":"0"}]}
   ]
+
+"lock": [
+  {"lockId":"0","name":"Manuel","location":"FEUP","stateLock":"0","users":[{"username":"miguelk99","statusUser":"0"},{"username":"godinhok99","statusUser":"1"}]}
+  {"lockId":"1","name":"Bruno","location":"FCUP","stateLock":"1","users":[{"username":"godinhok99","statusUser":"0"}]}
+]
 }
+
+
