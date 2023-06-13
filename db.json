@@ -1,9 +1,9 @@
 {
   "user": [
     {
-      "username": "miguelk99",
-      "pass": "miguelk9",
-      "email": "miguel.g.7@hotmail.com",
+      "username": "miguel",
+      "pass": "física",
+      "email": "up202203839@fc.up.pt",
       "lockAvaible": [
         {
           "lockId": "0",
@@ -12,9 +12,9 @@
       ]
     },
     {
-      "username": "godinhok99",
-      "pass": "godinhok9",
-      "email": "miguelgodinho99@gmail.com",
+      "username": "godinho",
+      "pass": "física",
+      "email": "a89624@uminho.pt",
       "lockAvaible": [
         {
           "lockId": "0",
@@ -33,13 +33,21 @@
       "name": "Manuel",
       "location": "FEUP",
       "stateLock": "0",
+      "pinLock" : "2098",
+      "lastAcess": [
+        {
+          "username": "miguel",
+          "date": "08-09-2023 22:22"
+          
+        }
+      ],
       "users": [
         {
-          "username": "miguelk99",
+          "username": "miguel",
           "statusUser": "0"
         },
         {
-          "username": "godinhok99",
+          "username": "godinho",
           "statusUser": "1"
         }
       ]
@@ -49,9 +57,15 @@
       "name": "Bruno",
       "location": "FCUP",
       "stateLock": "1",
+      "lastAcess": [
+        {
+          "username": "godinho",
+          "data": "08-09-2023 00:00"
+        }
+      ]
       "users": [
         {
-          "username": "godinhok99",
+          "username": "godinho",
           "statusUser": "0"
         }
       ]
