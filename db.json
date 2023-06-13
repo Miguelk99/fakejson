@@ -57,12 +57,13 @@
       "name": "Bruno",
       "location": "FCUP",
       "stateLock": "1",
+      "pinLock": "8769",
       "lastAcess": [
         {
           "username": "godinho",
           "data": "08-09-2023 00:00"
         }
-      ]
+      ],
       "users": [
         {
           "username": "godinho",
